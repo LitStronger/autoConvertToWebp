@@ -1,0 +1,22 @@
+{
+  "name": "converttowebp",
+  "version": "1.0.0",
+  "description": "利用npm包`webp-converter`和nodejs的`fs`模块，实现批量将图片转为webp格式",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LitStronger/autoConvertToWebp.git"
+  },
+  "author": "litstronger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LitStronger/autoConvertToWebp/issues"
+  },
+  "homepage": "https://github.com/LitStronger/autoConvertToWebp#readme",
+  "dependencies": {
+    "webp-converter": "^2.3.0"
+  }
+}
